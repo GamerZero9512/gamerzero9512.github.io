@@ -6,3 +6,6 @@ Now with dictionary and more!
 
 # [Turdle v1.1](https://gamerzero9512.github.io/turdle_old)
 Crappy wordle knockoff
+
+# [simpletext](https://gamerzero9512.github.io/simpletext)
+Simple and minimalistic code/text editor.
